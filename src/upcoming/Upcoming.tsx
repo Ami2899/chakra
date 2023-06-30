@@ -5,7 +5,6 @@ import { Box } from '@chakra-ui/react'
 const Upcoming = () => {
   return (
     <Box
-      bg="teal.50"
       height="120px"
       color="black"
       textAlign="center"
